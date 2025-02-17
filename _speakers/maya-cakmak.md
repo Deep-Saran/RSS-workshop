@@ -13,8 +13,8 @@ affil_link: https://www.cs.washington.edu/
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
 img: maya.jpg
 
+# Maya Cakmak is a Professor at the University of Washington, Allen School for Computer Science & Engineering, where she directs the Human-Centered Robotics Lab.
+
 ---
 
 <!-- Whatever you write below will show up as the speaker's bio -->
-
-Maya Cakmak is a Professor at the University of Washington, Allen School for Computer Science & Engineering, where she directs the Human-Centered Robotics Lab.
