@@ -13,8 +13,8 @@ affil_link: https://csweb.rice.edu/
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
 img: vaibhav.jpg
 
+# Vaibhav Unhelkar am an Assistant Professor of Computer Science at Rice University. His vision is to develop computational foundations for designing artificially intelligent systems (e.g., robots and decision-support aids) that enhance human capability.
+
 ---
 
 <!-- Whatever you write below will show up as the speaker's bio -->
-
-Vaibhav Unhelkar am an Assistant Professor of Computer Science at Rice University. His vision is to develop computational foundations for designing artificially intelligent systems (e.g., robots and decision-support aids) that enhance human capability.
